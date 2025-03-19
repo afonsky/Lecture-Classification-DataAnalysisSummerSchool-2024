@@ -125,7 +125,7 @@ layout: center
 <div class="grid grid-cols-[3fr_4fr] gap-30">
 <div>
   <figure>
-    <img src="/pr.png" style="width: 390px !important;">
+    <img src="/precision.png" style="width: 390px !important;">
   </figure>
 </div>
 <div>
